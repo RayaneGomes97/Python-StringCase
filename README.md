@@ -3,7 +3,7 @@
   <meta charset= "UTF-8">
   </head>	
 <body>		<body>	
-  <h1> Sring case>
+  <h1> Sring case></h1>
 
 
   <p> Projeto voltado a estudos inspirado no site https://convertcase.net/ </p>
